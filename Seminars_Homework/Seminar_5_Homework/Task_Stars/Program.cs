@@ -15,10 +15,7 @@ int[] GetArray(int size, int minValue, int maxValue)
 }
 
 
-// int BubbleSort(int[] array)
-// {
 
-// }
 
 
 void SelectionSort(int[] array)  // для поиска максимального 
