@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\den00\\OneDrive\\Рабочий стол\\С#_lesson\\Seminars\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj": {}
+    "C:\\Users\\den00\\Desktop\\HOMEWORK\\C-_Seminar_Homework\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj": {}
   },
   "projects": {
-    "C:\\Users\\den00\\OneDrive\\Рабочий стол\\С#_lesson\\Seminars\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj": {
+    "C:\\Users\\den00\\Desktop\\HOMEWORK\\C-_Seminar_Homework\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\den00\\OneDrive\\Рабочий стол\\С#_lesson\\Seminars\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj",
+        "projectUniqueName": "C:\\Users\\den00\\Desktop\\HOMEWORK\\C-_Seminar_Homework\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj",
         "projectName": "Task43",
-        "projectPath": "C:\\Users\\den00\\OneDrive\\Рабочий стол\\С#_lesson\\Seminars\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj",
+        "projectPath": "C:\\Users\\den00\\Desktop\\HOMEWORK\\C-_Seminar_Homework\\Seminars_Homework\\Seminar_6_Homework\\Task43\\Task43.csproj",
         "packagesPath": "C:\\Users\\den00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\den00\\OneDrive\\Рабочий стол\\С#_lesson\\Seminars\\Seminars_Homework\\Seminar_6_Homework\\Task43\\obj\\",
+        "outputPath": "C:\\Users\\den00\\Desktop\\HOMEWORK\\C-_Seminar_Homework\\Seminars_Homework\\Seminar_6_Homework\\Task43\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\den00\\AppData\\Roaming\\NuGet\\NuGet.Config"
