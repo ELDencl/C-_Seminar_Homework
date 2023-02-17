@@ -1,0 +1,15 @@
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.csproj.AssemblyReference.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.AssemblyInfoInputs.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.AssemblyInfo.cs
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.csproj.CoreCompileInputs.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\bin\Debug\net6.0\TaskFactorial.exe
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\bin\Debug\net6.0\TaskFactorial.deps.json
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\bin\Debug\net6.0\TaskFactorial.runtimeconfig.json
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\bin\Debug\net6.0\TaskFactorial.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\bin\Debug\net6.0\TaskFactorial.pdb
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\refint\TaskFactorial.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.pdb
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\TaskFactorial.genruntimeconfig.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskFactorial\obj\Debug\net6.0\ref\TaskFactorial.dll

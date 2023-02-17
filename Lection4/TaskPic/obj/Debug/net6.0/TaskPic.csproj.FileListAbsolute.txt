@@ -1,0 +1,15 @@
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.csproj.AssemblyReference.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.AssemblyInfoInputs.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.AssemblyInfo.cs
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.csproj.CoreCompileInputs.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\bin\Debug\net6.0\TaskPic.exe
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\bin\Debug\net6.0\TaskPic.deps.json
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\bin\Debug\net6.0\TaskPic.runtimeconfig.json
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\bin\Debug\net6.0\TaskPic.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\bin\Debug\net6.0\TaskPic.pdb
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\refint\TaskPic.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.pdb
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\TaskPic.genruntimeconfig.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Lection4\TaskPic\obj\Debug\net6.0\ref\TaskPic.dll
