@@ -1,0 +1,15 @@
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\bin\Debug\net6.0\Task_Stars.exe
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\bin\Debug\net6.0\Task_Stars.deps.json
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\bin\Debug\net6.0\Task_Stars.runtimeconfig.json
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\bin\Debug\net6.0\Task_Stars.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\bin\Debug\net6.0\Task_Stars.pdb
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.csproj.AssemblyReference.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.AssemblyInfoInputs.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.AssemblyInfo.cs
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.csproj.CoreCompileInputs.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\refint\Task_Stars.dll
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.pdb
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\Task_Stars.genruntimeconfig.cache
+C:\Users\den00\Desktop\HOMEWORK\C-_Seminar_Homework\Seminars_Homework\Seminar_6_Homework\Task_Stars\obj\Debug\net6.0\ref\Task_Stars.dll
